@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [luccasmesquita.com](https://linknow.com.br/luccasmesquita)
 
-- 📫 How to reach me **luccas.m.mesquita@hotmail.com**
+- 📫 How to reach me **hello@luccasmesquita.com**
 
 
 <p align="left">
@@ -20,7 +20,6 @@
 </p>
 
 <!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
