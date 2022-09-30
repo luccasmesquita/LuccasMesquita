@@ -2,7 +2,7 @@
 <h3 align="center">A Front-end Developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [luccasmesquita.com](https://linknow.com.br/luccasmesquita)
+- 👨‍💻 All of my projects are available at [luccasmesquita.com](https://luccasmesquita.github.io/luccmesquita-portfolio/)
 
 - 📫 How to reach me **hello@luccasmesquita.com**
 
