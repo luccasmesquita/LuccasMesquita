@@ -1,5 +1,4 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luccas Mesquita</h1>
-<h3 align="center">A Front-end Developer</h3>
 
 
 - 👨‍💻 All of my projects are available at [luccasmesquita.com](https://luccasmesquita.com)
